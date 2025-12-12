@@ -158,4 +158,4 @@ MIT
 
 ## 🤝 参考项目
 
-- [Cent](../Cent/) - 记账应用，本项目借鉴了其增量同步机制
+- [Cent](https://github.com/glink25/Cent) - 记账应用，本项目借鉴了其增量同步机制
